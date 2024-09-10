@@ -1,5 +1,7 @@
 # Atlantic-TESLA
 
+[![DOI](https://zenodo.org/badge/855310111.svg)](https://zenodo.org/doi/10.5281/zenodo.13743015)
+
 AtlanticTesla is a Python3 collection of functions for generating stochastic wave, wind, and water level scenarios for inputs to morphology models.
 The package creates new time series of forcing conditions by generating new possible synoptic weather chronologies. 
 The workflow identifies historical synoptic weather patterns, and the meteorologic and oceanic conditions that occurred during those weather systems.
